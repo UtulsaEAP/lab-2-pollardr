@@ -1,3 +1,6 @@
+# Riley Pollard
+# Eng Appl Prog Thursday Lab
+
 def right_arrow():
     base_char = input()
     head_char = input()

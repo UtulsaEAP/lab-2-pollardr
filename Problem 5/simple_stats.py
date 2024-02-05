@@ -1,4 +1,7 @@
 
+# Riley Pollard
+# Eng Appl Prog Thursday Lab
+
 def simple_stats():
     num1 = float(input())
     num2 = float(input())

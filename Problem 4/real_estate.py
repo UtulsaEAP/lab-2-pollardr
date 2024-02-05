@@ -1,4 +1,7 @@
 
+# Riley Pollard
+# Eng Appl Prog Thursday Lab
+
 def real_estate():
     
     current_price = int(input())

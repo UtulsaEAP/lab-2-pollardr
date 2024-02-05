@@ -1,3 +1,5 @@
+# Riley Pollard
+# Eng Appl Prog Thursday Lab
 
 def caffeine():
     caffeine_mg = float(input())
